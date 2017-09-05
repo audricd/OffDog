@@ -1,5 +1,7 @@
 # OffDog
 Microsoft Office troubleshooting companion
+<br>
+--><a href="https://github.com/audricd/OffDog/releases">DOWNLOAD HERE</a><--
 <hr>
 <p align="center">
 <img src=https://image.ibb.co/kqfEOa/offdog.png>
